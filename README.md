@@ -14,4 +14,4 @@ Python codes:
   - Rand3.py implements a random motion with 3 e-puck robots
 
 Matlab code:
-Simulates the experiments with matlab. Nc and Nr can be changed in order to modify the number of robots performing the circular formation and the number of robots moving randomly, respectively.
+Simulates the experiments with matlab. Nc and Nr can be changed in order to modify the number of robots performing the circular formation (Nc) and the number of robots moving randomly (Nr).
