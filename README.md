@@ -8,9 +8,10 @@ Methodology:
   - Select position 3 on e-puck robots and connect to the computer using the e-puck numbers as password
   - Find MAC addresses of the e-puck robots in device manager
 
-Codes:
+Python codes:
   - Calibrate.py and CHESSBOARD.png calibrate the camera
   - CaptureTarget2circ.py and CaptureTarget3circ.py implement a dynamic balanced circular formation with 2 or 3 e-puck robots moving and one e-puck robot as the center of the formation
-  - Rand3.py implements a random motion with 3 e-puck robots 
+  - Rand3.py implements a random motion with 3 e-puck robots
 
-  
+Matlab code:
+Simulates the experiments with matlab. Nc and Nr can be changed in order to modify the number of robots performing the circular formation and the number of robots moving randomly, respectively.
